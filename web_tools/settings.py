@@ -42,8 +42,11 @@ Ordering of middlewares matters
 
 5.Signals:
 Execute a code when an event has occured
+#TODO add signal for adding user details
 
 6.Pagination:
+#TODO: watch again lecture if you want to make dynamic pagination
+All methods of pagination use the Paginator class
 
 """
 
